@@ -30,7 +30,7 @@ class VCard
      *
      * @var string
      */
-    private $filename;
+    public $filename;
 
     /**
      * Multiple properties for element allowed
